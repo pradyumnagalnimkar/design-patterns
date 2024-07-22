@@ -1,0 +1,47 @@
+
+2024-07-22 10:05:09,057 - [test_maths.py - 7] - [INFO] - Numbers available for addition are 10 & 20
+
+2024-07-22 10:05:09,057 - [test_maths.py - 8] - [INFO] - Addition: 30
+
+2024-07-22 10:05:09,060 - [test_maths.py - 13] - [INFO] - Numbers available for subtraction are 10 & 20
+
+2024-07-22 10:05:09,060 - [test_maths.py - 14] - [INFO] - Subtraction: 10
+umbers available for division are 10 & 20
+
+2024-07-22 10:05:09,058 - [test_maths.py - 31] - [INFO] - Division: 2.0
+
+2024-07-22 10:06:16,944 - [test_maths.py - 19] - [INFO] - Area of circle with radius: 2 is 12.566370614359172
+
+2024-07-22 10:06:16,945 - [test_maths.py - 7] - [INFO] - Numbers available for addition are 10 & 20
+
+2024-07-22 10:06:16,945 - [test_maths.py - 8] - [INFO] - Addition: 30
+
+2024-07-22 10:06:16,945 - [test_maths.py - 24] - [INFO] - Numbers available for multiply are 10 & 20
+
+2024-07-22 10:06:16,946 - [test_maths.py - 25] - [INFO] - Multiplication: 200
+
+2024-07-22 10:06:16,947 - [test_maths.py - 13] - [INFO] - Numbers available for subtraction are 10 & 20
+
+2024-07-22 10:06:16,947 - [test_maths.py - 14] - [INFO] - Subtraction: 10
+
+2024-07-22 10:06:16,947 - [test_maths.py - 30] - [INFO] - Numbers available for division are 10 & 20
+
+2024-07-22 10:06:16,947 - [test_maths.py - 31] - [INFO] - Division: 2.0
+
+2024-07-22 10:07:12,728 - [test_maths.py - 19] - [INFO] - Area of circle with radius: 2 is 12.566370614359172
+
+2024-07-22 10:07:12,729 - [test_maths.py - 7] - [INFO] - Numbers available for addition are 10 & 20
+
+2024-07-22 10:07:12,729 - [test_maths.py - 8] - [INFO] - Addition: 30
+
+2024-07-22 10:07:12,729 - [test_maths.py - 24] - [INFO] - Numbers available for multiply are 10 & 20
+
+2024-07-22 10:07:12,730 - [test_maths.py - 25] - [INFO] - Multiplication: 200
+
+2024-07-22 10:07:12,731 - [test_maths.py - 13] - [INFO] - Numbers available for subtraction are 10 & 20
+
+2024-07-22 10:07:12,731 - [test_maths.py - 14] - [INFO] - Subtraction: 10
+
+2024-07-22 10:07:12,731 - [test_maths.py - 30] - [INFO] - Numbers available for division are 10 & 20
+
+2024-07-22 10:07:12,731 - [test_maths.py - 31] - [INFO] - Division: 2.0

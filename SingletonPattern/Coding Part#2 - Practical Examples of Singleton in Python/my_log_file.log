@@ -1,0 +1,5 @@
+2024-07-15 09:11:51,030 - logger_example_implementation_001.py - DEBUG - This is a debug message
+2024-07-15 09:11:51,030 - logger_example_implementation_001.py - INFO - This is an info message
+2024-07-15 09:11:51,030 - logger_example_implementation_001.py - WARNING - This is a warning message
+2024-07-15 09:11:51,030 - logger_example_implementation_001.py - ERROR - This is an error message
+2024-07-15 09:11:51,030 - logger_example_implementation_001.py - CRITICAL - This is a critical message
